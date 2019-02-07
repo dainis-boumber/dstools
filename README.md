@@ -5,6 +5,7 @@ Collection of various tools and functions written by me and others that are usef
 ## Utils- general python utilities
 
 - **Timer** allows to quickly time functions using @timer decorator
+- **line_profiler** line-by-line profiling tool
 
 ## jupyter - Jupyter Notebook specific
 
@@ -13,6 +14,8 @@ Collection of various tools and functions written by me and others that are usef
 ## Vis - Visualization Tools
 
 - **ndboundaryplot** plot decision boundaries and probability surfacces in any (includingf highly) dimenional spaes.
+- **pycallgraph** visual profiler that graphs function calls to determine bottlenecks
+
 
 ## Authorship Information ##
 
