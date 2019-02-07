@@ -4,3 +4,6 @@
 [submodule "utils/python/line_profiler"]
 	path = utils/python/line_profiler
 	url = https://github.com/rkern/line_profiler.git
+[submodule "vis/pycallgraph"]
+	path = vis/pycallgraph
+	url = https://github.com/gak/pycallgraph.git
