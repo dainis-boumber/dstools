@@ -7,3 +7,6 @@
 [submodule "vis/pycallgraph"]
 	path = vis/pycallgraph
 	url = https://github.com/gak/pycallgraph.git
+[submodule "utils/pandas/modin"]
+	path = utils/pandas/modin
+	url = https://github.com/modin-project/modin.git
