@@ -1,0 +1,6 @@
+[submodule "jupyter/ipyexperiments"]
+	path = jupyter/ipyexperiments
+	url = https://github.com/stas00/ipyexperiments
+[submodule "utils/python/line_profiler"]
+	path = utils/python/line_profiler
+	url = https://github.com/rkern/line_profiler.git
