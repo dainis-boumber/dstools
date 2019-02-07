@@ -6,6 +6,7 @@ Collection of various tools and functions written by me and others that are usef
 
 - **Timer** allows to quickly time functions using @timer decorator
 - **line_profiler** line-by-line profiling tool
+- **Modin** speed up pandas by making it use all cores
 
 ## jupyter - Jupyter Notebook specific
 
