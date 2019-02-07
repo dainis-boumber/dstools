@@ -5,17 +5,17 @@ Collection of various tools and functions written by me and others that are usef
 ## Utils- general python utilities
 
 - **Timer** allows to quickly time functions using @timer decorator
-- **line_profiler** line-by-line profiling tool
-- **Modin** speed up pandas by making it use all cores
+- **line_profiler** line-by-line profiling tool `pip install line_profiler`
+- **Modin** speed up pandas by making it use all cores `pip install modin`
 
 ## jupyter - Jupyter Notebook specific
 
-- **ipyexperiments** collection of tools for doing Jupyter Notebook experiments in PyTorch using cuda, written by Stas Bekman
+- **ipyexperiments** collection of tools for doing Jupyter Notebook experiments in PyTorch using cuda, written by Stas Bekman `pip install ipyexperiments`
 
 ## Vis - Visualization Tools
 
 - **ndboundaryplot** plot decision boundaries and probability surfacces in any (includingf highly) dimenional spaes.
-- **pycallgraph** visual profiler that graphs function calls to determine bottlenecks
+- **pycallgraph** visual profiler that graphs function calls to determine bottlenecks `pip install pycallgraph`
 
 
 ## Authorship Information ##
