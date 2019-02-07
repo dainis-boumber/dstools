@@ -15,9 +15,11 @@ TODO: when possible, use decision_function() method and project that onto surfac
 3) For multi-dimensional, a way to plot high-dimensional decision boundaries via Voronoi tesselation onto 2D. 
 Based on work by Migut, G. and Worring, M. and Veenman, C. J.
 
+4) TODO: Add 3D plots
+
 Author: Dainis Boumber dainis.boumber@gmail.com
 
-base code: https://stackoverflow.com/questions/37718347/plotting-decision-boundary-for-high-dimension-data
+Acknowledgements: https://stackoverflow.com/questions/37718347/plotting-decision-boundary-for-high-dimension-data
 
 ``
 @Article{MigutDMKD2015,
