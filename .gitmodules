@@ -7,3 +7,6 @@
 [submodule "vis/pycallgraph"]
 	path = vis/pycallgraph
 	url = https://github.com/gak/pycallgraph.git
+[submodule "utils/pandas/ray"]
+	path = utils/pandas/ray
+	url = https://github.com/ray-project/ray.git
